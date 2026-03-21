@@ -17,11 +17,11 @@
 //  1. Install the Tampermonkey browser extension
 //  2. In Vivaldi/Chrome: go to the extension settings and enable
 //     "Allow user scripts" for Tampermonkey
-//  2b. In firefox go to about:config in the address bar
-//      Search for extensions.userScripts.enabled
-//      Set it to true
-//  3. Open Tampermonkey → Create new script
-//  4. Paste this entire file and save (Ctrl+S)
+//     In Firefox: go to about:config and set
+//     extensions.userScripts.enabled to true
+//  3. Open this URL in your browser to install the script:
+//     https://raw.githubusercontent.com/smefa/energyinbalance-logbook-script/main/energyinbalance_logbook.user.js
+//  4. Tampermonkey will show an install prompt — click Install
 //  5. Go to https://energyinbalance.se/dashboard and log in
 //  6. Click the green 📓 Logbook button in the bottom-right corner
 //

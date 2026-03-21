@@ -1,5 +1,5 @@
 # energyinbalance-logbook-script
-Script to show logbook info and comments on energyinbalance.se using Tampermonkey
+Script to show logbook info and comments on Checkwatt site energyinbalance.se using Tampermonkey
 
  HOW TO INSTALL
 1. Install the Tampermonkey browser extension

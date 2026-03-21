@@ -14,11 +14,12 @@ Script to show logbook info and comments on energyinbalance.se using Tampermonke
  your login session automatically.
 
 Should work with:
-✅ Chrome / Chromium*
+⏸️ Chrome / Chromium
 ✅ Vivaldi
-✅ Firefox*
-✅ Edge*
-✅ Opera*
-* Untested
+⏸️ Firefox
+⏸️ Edge
+⏸️ Opera
+
+⏸️ Untested
 
 <img width="591" height="478" alt="image" src="https://github.com/user-attachments/assets/c27d833f-1a9a-4551-a0ad-38b4a72d0789" />

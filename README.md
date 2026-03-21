@@ -9,6 +9,7 @@ Script to show logbook info and comments on energyinbalance.se using Tampermonke
  4. Paste this entire file and save (Ctrl+S)
  5. Go to https://energyinbalance.se/dashboard and log in
  6. Click the green 📓 Logbook button in the bottom-right corner
+
  No cookies, tokens, or configuration needed — the script reads
  your login session automatically.
 

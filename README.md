@@ -5,9 +5,9 @@ Script to show logbook info and comments on energyinbalance.se using Tampermonke
  1. Install the Tampermonkey browser extension
  2. In Vivaldi/Chrome: go to the extension settings and enable
     "Allow user scripts" for Tampermonkey
- 2b. In firefox go to about:config in the address bar
-     Search for extensions.userScripts.enabled
-     Set it to true
+    In firefox go to about:config in the address bar
+    Search for extensions.userScripts.enabled
+    Set it to true
  4. Open Tampermonkey → Create new script
  5. Paste this entire file and save (Ctrl+S)
  6. Go to https://energyinbalance.se/dashboard and log in

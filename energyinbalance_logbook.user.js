@@ -477,7 +477,7 @@
         // Update header with street address
         const headerTitle = document.querySelector('#eib-logbook-panel span');
         if (headerTitle && meter.StreetAddress && meter.StreetAddress !== 'null') {
-          headerTitle.textContent = '📓 ' + meter.StreetAddress;
+          headerTitle.textContent = '📓 Logbook ' + meter.StreetAddress;
         }
 
         // ── Meter info bar ──────────────────────────────────────────────

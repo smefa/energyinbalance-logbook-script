@@ -1,5 +1,5 @@
 # energyinbalance-logbook-script
-Script to show logbook info on energyinbalance.se using Tampermonkey
+Script to show logbook info and comments on energyinbalance.se using Tampermonkey
 
  HOW TO INSTALL
  1. Install the Tampermonkey browser extension
@@ -19,3 +19,5 @@ Should work with:
 ✅ Edge*
 ✅ Opera*
 * Untested
+
+<img width="591" height="478" alt="image" src="https://github.com/user-attachments/assets/c27d833f-1a9a-4551-a0ad-38b4a72d0789" />

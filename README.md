@@ -19,7 +19,7 @@ Script to show logbook info and comments on Checkwatt site energyinbalance.se us
  your login session automatically.
 
 Should work with:
-⏸️ Chrome / Chromium
+✅ Chrome / Chromium
 ✅ Vivaldi
 ⏸️ Firefox
 ⏸️ Edge
